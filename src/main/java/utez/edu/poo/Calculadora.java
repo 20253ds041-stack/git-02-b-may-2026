@@ -15,4 +15,8 @@ public class Calculadora {
         return num1 + num2;
     }
 
+    public double restar(){
+        return num1 - num2;
+    }
+
 }
