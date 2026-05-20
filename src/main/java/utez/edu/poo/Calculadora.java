@@ -11,4 +11,8 @@ public class Calculadora {
     }
 
 
+    public double sumar(){
+        return num1 + num2;
+    }
+
 }
