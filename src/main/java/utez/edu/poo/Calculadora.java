@@ -19,4 +19,8 @@ public class Calculadora {
         return num1 - num2;
     }
 
+    public double multiplicar(){
+        return  num1 * num2;
+    }
+
 }
